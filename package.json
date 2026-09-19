@@ -1,0 +1,19 @@
+{
+  "name": "pi-cli-anything",
+  "version": "0.1.0",
+  "description": "cli-anything-Skills für pi: Blender und FreeCAD headless steuern (Harness cli-anything-hub + natives Scripting). Wachsendes Paket — künftige cli-anything-Tools kommen als weitere Skills dazu.",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "skills",
+    "blender",
+    "freecad",
+    "cad",
+    "3d"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
